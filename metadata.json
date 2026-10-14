@@ -1,0 +1,6 @@
+{
+  "name": "Telco Churn Intelligence & ML Portfolio Suite",
+  "description": "Production-grade customer churn ML platform with SQL analytics, XGBoost/pipeline evaluation, cost-benefit threshold tuning, SHAP explainability, and KMeans retention strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
